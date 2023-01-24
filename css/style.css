@@ -1,0 +1,51 @@
+body {
+    background-color: aliceblue;
+}
+
+.box-2 {
+    height: 100vh;
+}
+
+.contact {
+    width: 95%;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid brown;
+
+}
+
+.back-form {
+    background-color: rgb(255, 243, 226);
+}
+
+.back-form1 {
+    border: 1px solid brown;
+}
+
+
+.color-icon {
+    color: rgb(0, 118, 252);
+    margin-right: 2%;
+}
+
+.form-size-1 {
+    padding-top: 3%;
+}
+
+.form-size {
+    width: 80%;
+    padding-right: 10%;
+}
+
+.contact-top {
+    color: rgb(0, 118, 252);
+    font-size: x-large;
+    margin: 5%;
+}
+
+.bt-bottom {
+    display: flex;
+    align-self: center;
+    margin: 5%;
+}
